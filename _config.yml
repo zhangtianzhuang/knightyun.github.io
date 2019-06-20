@@ -45,4 +45,4 @@ exclude:
 sass:
   style: compressed
 future: true
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
